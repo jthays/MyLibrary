@@ -1,0 +1,36 @@
+Project:
+ Name: MyLibrary
+ GUID: 5924df2bb10d5308031632b0d1904a05
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.3
+ CoreVersion: 3.0
+ Dependencies:
+  2:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 3.1
+  3:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 5.3
+  5:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 11.0
+ Statistics:
+  TotalNodeCount: 53
+  Objects: 15
+  ObjectTypes: 1
+  Variables: 37
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 0
+  ReferenceTypes: 0
+  Files: 5
+ Nodes:
+ - File: Nodes/MyLibrary.yaml
